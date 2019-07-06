@@ -1,7 +1,7 @@
 # Requirement
-python3  
-requests 2.21.0  
-urllib3 1.24.1
+- python3  
+- requests 2.21.0  
+- urllib3 1.24.1
 
 # email_service.ipynb
 Get sender, subject, content and attachment of unread email, request rasa_nlu server to get the reply of the email and send the reply to the sender.  
